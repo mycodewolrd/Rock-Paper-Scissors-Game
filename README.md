@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors-Game
-Rock Paper Scissors Game made with HTML CSS and JavaScript.
+It's a Rock Paper Scissors Game made with HTML CSS and JavaScript.
